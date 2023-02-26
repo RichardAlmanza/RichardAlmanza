@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Richard
+----
+> I'm just here testing this github feature
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlmanza&layout=compact&theme=dark&hide=java&langs_count=10)](https://richardalmanza.com)
 
 <!--
 **RichardAlmanza/RichardAlmanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
