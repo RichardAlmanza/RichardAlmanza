@@ -2,7 +2,7 @@
 ----
 > I'm just here testing this github feature
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlmanza&layout=compact&theme=dark&hide=java&langs_count=10)](https://richardalmanza.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlmanza&layout=compact&theme=dark&hide=java&langs_count=10&exclude_repo=scrapper-translate-classcenter)](https://richardalmanza.com)
 
 ![](https://komarev.com/ghpvc/?username=RichardAlmanza&style=flat-square&color=4e0e80&label=Profile+views+since+...+Who+knows+when+(hint:check+commit))
 
