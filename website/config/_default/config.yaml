@@ -1,0 +1,23 @@
+baseURL: "https://richardalmanza.com"
+languageCode: "en-us"
+title: "Richard Almanza"
+theme: gurusabarish-hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+Paginate: 3
+enableRobotsTXT: true
+# disqusShortname: your-disqus-shortname
+# googleAnalytics: G-MEASUREMENT_ID
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
