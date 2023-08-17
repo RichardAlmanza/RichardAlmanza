@@ -1,9 +1,9 @@
-# main:
-  # - identifier: blog
-  #   name: Blog
-  #   title: Blog posts
-  #   url: /blogs
-  #   weight: 1
+main:
+  - identifier: blog
+    name: Blog
+    title: Blog posts
+    url: /blogs
+    weight: 1
   # - identifier: gallery
   #   name: Gallery
   #   title: Blog posts
