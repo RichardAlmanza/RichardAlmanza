@@ -15,7 +15,7 @@ outputs:
 Paginate: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
-# googleAnalytics: G-MEASUREMENT_ID
+googleAnalytics: G-C0HPX55SR8
 
 markup:
   goldmark:
