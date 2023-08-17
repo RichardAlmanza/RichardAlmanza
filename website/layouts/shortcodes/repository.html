@@ -1,0 +1,27 @@
+{{ with .Page.Params.repository }}
+<div class="row justify-content-center">
+    <a href="{{ . }}" class="text-center" data-bs-toggle="tooltip" title="Check repository">
+        <img src="/logos/git.svg" width="200px" id="img-repository-shortcode">
+    </a>
+</div>
+
+<script>
+    const imgToChange = document.getElementById("img-repository-shortcode");
+    const gitColorful = "/logos/git.svg";
+    const gitWhite = "/logos/git-dark-theme.svg";
+
+    imgToChange.src = gitColorful;
+
+    if (document.body.className.includes("dark")) {
+        imgToChange.src = gitWhite;
+    }
+
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            imgToChange.src = gitColorful;
+        } else {
+            imgToChange.src = gitWhite;
+        }
+    })
+</script>
+{{ end }}
