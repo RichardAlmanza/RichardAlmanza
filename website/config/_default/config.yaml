@@ -1,7 +1,7 @@
 baseURL: "https://richardalmanza.com"
 languageCode: "en-us"
 title: "Richard Almanza"
-theme: gurusabarish-hugo-profile
+theme: fork-hugo-profile
 
 outputs:
   home:
