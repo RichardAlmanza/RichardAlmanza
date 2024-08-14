@@ -141,7 +141,8 @@
 
     <details>
         <summary><b>IAM POLICY</b></summary>
-    <pre>
+
+    ```json
     {
         "Version": "2012-10-17",
         "Statement": [
@@ -161,7 +162,8 @@
             }
         ]
     }
-    <code>
+    ```
+    
     </details>
 
    <details>
