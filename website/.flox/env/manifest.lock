@@ -1,0 +1,137 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "hugo": {
+        "pkg-path": "hugo",
+        "version": "0.155.3"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {}
+  },
+  "packages": [
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/fdswi9ck6bv0pps8q6f1703f6r5ix6i1-hugo-0.155.3.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "name": "hugo-0.155.3",
+      "pname": "hugo",
+      "rev": "b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "rev_count": 964859,
+      "rev_date": "2026-03-18T08:17:15Z",
+      "scrape_date": "2026-03-20T00:40:26.579759Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.155.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/b6pd0yrbg5czwi993nn9bajxp4dvpnlj-hugo-0.155.3"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/c5lydwwipy1zmdchbmmfvb7ggsvgzzmd-hugo-0.155.3.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "name": "hugo-0.155.3",
+      "pname": "hugo",
+      "rev": "b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "rev_count": 964859,
+      "rev_date": "2026-03-18T08:17:15Z",
+      "scrape_date": "2026-03-20T01:11:57.644295Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.155.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/c33ks8qpg3zh9wms2pqcgi3s4f4c58jq-hugo-0.155.3"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/xanfq9g08jmq27xszpv8sx6920z37rsa-hugo-0.155.3.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "name": "hugo-0.155.3",
+      "pname": "hugo",
+      "rev": "b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "rev_count": 964859,
+      "rev_date": "2026-03-18T08:17:15Z",
+      "scrape_date": "2026-03-20T01:41:50.949117Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.155.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/361s37bsqladwq5qiq42c8grkzrzhf3h-hugo-0.155.3"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "hugo",
+      "broken": false,
+      "derivation": "/nix/store/fjm1r8adcb1gvc2ipanzca8h7218cqhh-hugo-0.155.3.drv",
+      "description": "Fast and modern static website engine",
+      "install_id": "hugo",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "name": "hugo-0.155.3",
+      "pname": "hugo",
+      "rev": "b40629efe5d6ec48dd1efba650c797ddbd39ace0",
+      "rev_count": 964859,
+      "rev_date": "2026-03-18T08:17:15Z",
+      "scrape_date": "2026-03-20T02:16:46.234324Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.155.3",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/bfv4cy2187qx89xkb2659dg283bwfyyz-hugo-0.155.3"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}
