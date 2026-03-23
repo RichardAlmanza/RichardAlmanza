@@ -8,14 +8,12 @@ tags:
   - macheight
   - find-pairs
 image: /images/post.png
-description: -|
+description: |-
   This is an algorithm challenge from MachEight
 toc: true
 repository: https://github.com/RichardAlmanza/other-challenges/tree/main/macheight
 summary: |-
-  The task is to write a function that finds pairs of integers from a list that
-  sum to a given value. The function will take as input the list of numbers as
-  well as the target sum.
+  El reto de algoritmo de MatchEight consiste en encontrar un par de numero presentes en una lista que sumen el valor objetivo
 ---
 
 {{% repository %}}
