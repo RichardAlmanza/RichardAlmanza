@@ -44,6 +44,7 @@ jobs:
         with:
           command: |
             hugo \
+              --source ./website \
               --environment production \
               --minify \
               --baseURL "${{ steps.pages.outputs.base_url }}/"
