@@ -1,0 +1,15 @@
+languageName: "English"
+weight: 1
+contentDir: "content/en"
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Image gallery
+    #   url: /gallery
+    #   weight: 2

@@ -14,7 +14,7 @@ toc: true
 repository: https://github.com/RichardAlmanza/other-challenges/tree/main/macheight
 ---
 
-{{% repository %}}
+<!-- {{% repository %}} -->
 
 # Content
 
