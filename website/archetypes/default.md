@@ -5,8 +5,8 @@ draft: true
 author: Richard Almanza
 tags:
   - tag
-image: /images/post.jpg
-description: -|
+image: /images/post.png
+description: |-
   Description --- replace this text
 toc: true
 repository:
