@@ -45,22 +45,23 @@ languages:
       hero:
         intro: "Hola, mi nombre es"
         title: "Richard Adolfo Vega Almanza."
-        subtitle: "I build things using software"
+        subtitle: "Construyo cosas a través del software"
         content: >-
-          [In Spanish] A DevOps engineer. Interested in analyzing, designing, prototyping,
-          implementing, and deploying software systems in the cloud.
-          Wishful to learn and teach new knowledge, thus, encouraging a collaborative community.
+          Ingeniero DevOps. Interesado en analizar, diseñar, prototipar,
+          implementar y desplegar sistemas de software en la nube.
+          Deseoso de aprender y enseñar nuevos conocimientos, fomentando
+          así una comunidad colaborativa
         button:
           name: "Currículum"
       about:
         title: "Sobre Mí"
         content: |-
-          [In Spanish] Hello! I'm a software engineer with a focus on cloud technologies and
-          optimizing software systems. My background includes experience in AWS
-          EKS Cluster implementation with Terraform, using Prometheus and Grafana
-          for monitoring, and creating CI/CD pipelines with GitLab CI and Docker.
+          ¡Hola! Soy un ingeniero de software con un enfoque en tecnologías de la nube y
+          optimización de sistemas de software. Mi trayectoria incluye experiencia en la
+          implementación de clústeres AWS EKS con Terraform, el uso de Prometheus y Grafana
+          para monitoreo, y la creación de pipelines de CI/CD con GitLab CI y Docker.
 
-          I am currently working in different personal projects to keep learning.
+          Actualmente estoy trabajando en diferentes proyectos personales para seguir aprendiendo.
         skills:
           title: "Aquí hay algunas tecnologías con las que he estado trabajando recientemente:"
       experience:
@@ -71,14 +72,13 @@ languages:
               - name: "Ingeniero DevOps"
                 date: "Mar 2022 - Jun 2022"
                 content: |-
-                  [In Spanish]
-                  - Create Kubernetes clusters using Terraform and EKS service from AWS.
-                  - Set up monitoring and alerting solutions with Prometheus and Grafana.
-                  - Connect Grafana alerts to notify through AWS SNS and Slack.
-                  - Set up an email solution integrating Gmail from Google Workspace and
-                    Webmail from Hostinger.
+                  - Crear clústeres de Kubernetes utilizando Terraform y el servicio EKS de AWS.
+                  - Configurar soluciones de monitoreo y alertas con Prometheus y Grafana.
+                  - Conectar alertas de Grafana para notificar a través de AWS SNS y Slack.
+                  - Configurar una solución de correo electrónico integrando Gmail de Google Workspace y
+                    Webmail de Hostinger.
                 info:
-                  content: "[In Spanish] I worked as a DevOps Engineer"
+                  content: "Trabajé como Ingeniero DevOps"
                 featuredItems:
                   fontAwesomeIcons:
                     - icon: fa-brands fa-docker
@@ -94,10 +94,9 @@ languages:
               - name: "Asistente DevOps"
                 date: "Mar 2019 - Abr 2019"
                 content: |-
-                  [In Spanish]
-                  - Create CI/CD pipelines for ongoing web applications using GitLab CI.
-                    The pipelines include running unit tests and delivering the application
-                    with Docker.
+                  - Crear pipelines de CI/CD para aplicaciones web en curso utilizando GitLab CI.
+                    Los pipelines incluyen la ejecución de pruebas unitarias y la entrega de la aplicación
+                    con Docker.
 
           - company: "WAREBIT"
             companyUrl: ""
@@ -105,14 +104,14 @@ languages:
               - name: "Desarrollador de Video Juegos"
                 date: "Nov 2021 - May 2022"
                 info:
-                  content: "[In Spanish] I worked as a software developer for more than one year in Amazon."
+                  content: "Trabajé como desarrollador de video juegos."
                 content: |
-                  [In Spanish] The following items are for serious games developed with Game Maker Studio 1.4
+                  Los siguientes elementos corresponden a juegos serios desarrollados con Game Maker Studio 1.4
 
-                  - Develop serious video games for Android and Windows.
-                  - Fixing reported bugs.
-                  - Improve performance and refactor code.
-                  - Give client support for the web platform used to set up contests.
+                  - Desarrollar videojuegos serios para Android y Windows.
+                  - Corregir errores reportados.
+                  - Mejorar el rendimiento y refactorizar el código.
+                  - Brindar soporte al cliente para la plataforma web utilizada para configurar concursos.
               - name: "Desarrollador de Video Juegos"
                 date: "Nov 2016 - Jun 2017"
 
@@ -131,12 +130,12 @@ languages:
               #     - icon: /fav.png
               #       url: "https://example.com"
               content: |-
-                [In Spanish] Integrates is a web application to show and keep track of vulnerability
-                reports for their clients. I worked mainly on the backend of the application
-                built with Django.
+                Integrates es una aplicación web para mostrar y realizar el seguimiento de reportes
+                de vulnerabilidades para sus clientes. Trabajé principalmente en el backend de la
+                aplicación construida con Django.
 
-                - Refactor code, standardizing its style to improve its legibility and removing smell code.
-                - Resolve bugs and develop features on Integrates.
+                - Refactorizar código, estandarizando su estilo para mejorar la legibilidad y eliminar código redundante (code smell).
+                - Resolver errores y desarrollar funcionalidades en Integrates.
 
           # - company: "Netflix"
           #   companyUrl: "https://example.com"
@@ -486,7 +485,7 @@ params:
           - name: "Game Developer"
             date: "Nov 2021 - May 2022"
             info:
-              content: I worked as a software developer for more than one year in Amazon.
+              content: I worked as a game developer.
             content: |
               The following items are for serious games developed with Game Maker Studio 1.4
 
