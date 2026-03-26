@@ -155,7 +155,7 @@ languages:
           #   - name: "Product Designer"
           #     date: "Feb 2016 - Mar 2017"
           #     content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-      education:
+      # education:
         # items:
         #   - title: "Maestría en Administración de Empresas"
         #     school:
@@ -193,7 +193,7 @@ languages:
         #     featuredLink:
         #       enable: true
         #       url: "https://example.com"
-      projects:
+      # projects:
         # items:
         #   - title: Hugo Profile
         #     content: Una plantilla Hugo altamente personalizable y centrada en dispositivos móviles para portafolio personal y blog.
@@ -262,6 +262,9 @@ languages:
       contact:
         content: Mi bandeja de entrada siempre está abierta. Ya sea que tengas una pregunta o simplemente quieras saludar, ¡haré todo lo posible para responderte!
         btnName: Escríbeme
+      footer:
+        recentPosts:
+          title: Posts Recientes
 
 
 outputs:
@@ -336,7 +339,7 @@ params:
   # Whether the fade animations on the home page will be enabled
   animate: true
 
-  theme:
+  # theme:
     # disableThemeToggle: true
     # defaultTheme: "light" # dark
 
@@ -376,14 +379,14 @@ params:
     # searchPlaceholder: "Search"
     stickyNavBar:
       enable : true
-      showOnScrollUp : true
+      showOnScrollUp : false
     enableSeparator: false
     menus:
       disableAbout: false
       disableExperience: false
-      disableEducation: true
+      disableEducation: false
       disableProjects: false
-      disableAchievements: true
+      disableAchievements: false
       disableContact: false
 
   # Hero
