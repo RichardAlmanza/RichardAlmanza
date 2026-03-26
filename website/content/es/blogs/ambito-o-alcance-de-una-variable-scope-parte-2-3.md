@@ -56,4 +56,12 @@ la relación del bloque.
 
 Las flechan indican el sentido de la solicitud de alguna variable, y al igual que en la ***imagen-1***, las variables fuera de su propio bloque solo siguen viviendo si pertenecen al bloque padre y/o ascendencia directa.
 
+--- Descargas
+
+{{< link href="/downloads/posts/es/variables-globales-y-locales.excalidraw" download="" >}}
+Archivo Excalidraw
+{{< /link >}}
+
+--- Fin seccion
+
 --- Continuación: [Ámbito o alcance de una variable (Scope) (Parte 3 de 3)](/es/blogs/ambito-o-alcance-de-una-variable-scope-parte-3-3)

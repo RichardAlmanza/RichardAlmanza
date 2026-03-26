@@ -45,6 +45,7 @@ Es sencillamente realizar una copia del valor en otra parte de la memoria que el
 ## Tipos
 
 Los **tipos** son meta-datos (datos acerca los datos), y su intención es dar información sobre que representa el conjunto de bits almacenados en la variable, es decir, nos dice como debemos interpretar el estado presente del conjunto de celdas, digamos 1 byte (así vamos aterrizando el ejemplo)
+
 Un byte con el siguiente estado `FVVFVFVF`, que representado en número binario si **V** es **1** y **F** es **0** entonces `01101010`, según el tipo es:
 - Real: `1.49e-43`
 - Entero: `106`
@@ -52,5 +53,13 @@ Un byte con el siguiente estado `FVVFVFVF`, que representado en número binario 
 - Caracter: `j`
 
 El programa o nosotros le damos sentido a los datos almacenados.
+
+--- Descargas
+
+{{< link href="/downloads/posts/es/variables-memoria-y-tipos.excalidraw" download="" >}}
+Archivo Excalidraw
+{{< /link >}}
+
+--- Fin seccion
 
 --- continuación: [Variables, Memoria y Tipos (Parte 3 de 3)](/es/blogs/variables-memoria-y-tipos-parte-3-3)
